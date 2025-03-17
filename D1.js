@@ -61,5 +61,4 @@ let name1 = "john";
 let name2 = "John";
 
 console.log("name1 e name2 sono uguali?", name1 === name2);
-
 console.log("ora name1 e name2 sono uguali?", name1 === name2.toLowerCase());
